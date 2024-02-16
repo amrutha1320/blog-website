@@ -1,0 +1,11 @@
+.container {
+      width: 40%;
+      height: 10em;
+      position: relative ;
+      justify-content: center;
+      align-items: center;
+    }
+html,body{
+  background-color:rgb(247, 204, 123);
+}
+
